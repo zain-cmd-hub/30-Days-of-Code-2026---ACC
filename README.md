@@ -5,11 +5,11 @@ My accepted coding challenge solutions.
 <!-- 30ACC-LEETHUB:START -->
 ## 30 Days of Code — Progress Dashboard
 
-Latest accepted submission: **Contains Duplicate II** (Day 6) · 2026-11-08T07:44:41.768Z
+Latest accepted submission: **Sort an Array** (Day 1) · 2026-11-08T07:45:37.744Z
 
 | Day | Details | Challenge | Difficulty | Language | Status |
 |---|---|---|---|---|---|
-| 01 | — | — | — | — | — |
+| 01 | [Day 01](./Day-01/README.md) | Sort an Array | easy | java | ACCEPTED |
 | 02 | — | — | — | — | — |
 | 03 | — | — | — | — | — |
 | 04 | — | — | — | — | — |
