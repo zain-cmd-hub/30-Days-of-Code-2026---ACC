@@ -5,7 +5,7 @@ My accepted coding challenge solutions.
 <!-- 30ACC-LEETHUB:START -->
 ## 30 Days of Code — Progress Dashboard
 
-Latest accepted submission: **Merge Two Sorted Lists** (Day 4) · 2026-11-08T07:47:25.702Z
+Latest accepted submission: **Valid Palindrome** (Day 5) · 2026-11-08T07:48:06.540Z
 
 | Day | Details | Challenge | Difficulty | Language | Status |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@ Latest accepted submission: **Merge Two Sorted Lists** (Day 4) · 2026-11-08T07:
 | 02 | [Day 02](./Day-02/README.md) | Squares of a Sorted Array | easy | java | ACCEPTED |
 | 03 | [Day 03](./Day-03/README.md) | Middle of the Linked List | easy | java | ACCEPTED |
 | 04 | [Day 04](./Day-04/README.md) | Merge Two Sorted Lists | easy | java | ACCEPTED |
-| 05 | — | — | — | — | — |
+| 05 | [Day 05](./Day-05/README.md) | Valid Palindrome | easy | java | ACCEPTED |
 | 06 | [Day 06](./Day-06/README.md) | Contains Duplicate II | easy | java | ACCEPTED |
 | 07 | — | — | — | — | — |
 | 08 | — | — | — | — | — |
