@@ -1,0 +1,21 @@
+{
+  "submission_id": "b24d2f9d-483c-4858-8a4d-81b1c5ff669f",
+  "day": 6,
+  "challenge_id": null,
+  "challenge_title": "Contains Duplicate II",
+  "difficulty": "easy",
+  "language": "java",
+  "status": "ACCEPTED",
+  "passed_test_cases": 1,
+  "total_test_cases": 1,
+  "pass_percentage": 100,
+  "runtime": null,
+  "memory": null,
+  "elapsed_time": null,
+  "submitted_at": "2026-11-08T07:44:41.768Z",
+  "source_url": "https://30accd.xyz/challenge/6?arena=DSA",
+  "source_file": "solution.java",
+  "editor_type": "monaco",
+  "editor_confidence": "api",
+  "success_evidence": "fresh post-click success dialog text"
+}
