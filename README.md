@@ -5,14 +5,14 @@ My accepted coding challenge solutions.
 <!-- 30ACC-LEETHUB:START -->
 ## 30 Days of Code — Progress Dashboard
 
-Latest accepted submission: **Middle of the Linked List** (Day 3) · 2026-11-08T07:46:56.895Z
+Latest accepted submission: **Merge Two Sorted Lists** (Day 4) · 2026-11-08T07:47:25.702Z
 
 | Day | Details | Challenge | Difficulty | Language | Status |
 |---|---|---|---|---|---|
 | 01 | [Day 01](./Day-01/README.md) | Sort an Array | easy | java | ACCEPTED |
 | 02 | [Day 02](./Day-02/README.md) | Squares of a Sorted Array | easy | java | ACCEPTED |
 | 03 | [Day 03](./Day-03/README.md) | Middle of the Linked List | easy | java | ACCEPTED |
-| 04 | — | — | — | — | — |
+| 04 | [Day 04](./Day-04/README.md) | Merge Two Sorted Lists | easy | java | ACCEPTED |
 | 05 | — | — | — | — | — |
 | 06 | [Day 06](./Day-06/README.md) | Contains Duplicate II | easy | java | ACCEPTED |
 | 07 | — | — | — | — | — |
