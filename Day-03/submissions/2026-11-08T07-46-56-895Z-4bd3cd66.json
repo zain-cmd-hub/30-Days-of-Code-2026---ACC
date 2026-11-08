@@ -1,0 +1,21 @@
+{
+  "submission_id": "4bd3cd66-068d-4348-a5a7-4f274db6e389",
+  "day": 3,
+  "challenge_id": null,
+  "challenge_title": "Middle of the Linked List",
+  "difficulty": "easy",
+  "language": "java",
+  "status": "ACCEPTED",
+  "passed_test_cases": 1,
+  "total_test_cases": 1,
+  "pass_percentage": 100,
+  "runtime": null,
+  "memory": null,
+  "elapsed_time": null,
+  "submitted_at": "2026-11-08T07:46:56.895Z",
+  "source_url": "https://30accd.xyz/challenge/3?arena=DSA",
+  "source_file": "solution.java",
+  "editor_type": "monaco",
+  "editor_confidence": "api",
+  "success_evidence": "fresh post-click success dialog text"
+}
