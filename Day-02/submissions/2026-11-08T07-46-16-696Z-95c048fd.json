@@ -1,0 +1,21 @@
+{
+  "submission_id": "95c048fd-b9fb-4c68-80e6-4f5dca47e227",
+  "day": 2,
+  "challenge_id": null,
+  "challenge_title": "Squares of a Sorted Array",
+  "difficulty": "easy",
+  "language": "java",
+  "status": "ACCEPTED",
+  "passed_test_cases": 1,
+  "total_test_cases": 1,
+  "pass_percentage": 100,
+  "runtime": null,
+  "memory": null,
+  "elapsed_time": null,
+  "submitted_at": "2026-11-08T07:46:16.696Z",
+  "source_url": "https://30accd.xyz/challenge/2?arena=DSA",
+  "source_file": "solution.java",
+  "editor_type": "monaco",
+  "editor_confidence": "api",
+  "success_evidence": "fresh post-click success dialog text"
+}
