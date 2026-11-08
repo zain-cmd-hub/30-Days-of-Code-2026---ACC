@@ -1,0 +1,21 @@
+{
+  "submission_id": "871f489a-11a0-4254-afa9-9435b17b41a6",
+  "day": 1,
+  "challenge_id": null,
+  "challenge_title": "Sort an Array",
+  "difficulty": "easy",
+  "language": "java",
+  "status": "ACCEPTED",
+  "passed_test_cases": 1,
+  "total_test_cases": 1,
+  "pass_percentage": 100,
+  "runtime": null,
+  "memory": null,
+  "elapsed_time": null,
+  "submitted_at": "2026-11-08T07:45:37.744Z",
+  "source_url": "https://30accd.xyz/challenge/1?arena=DSA",
+  "source_file": "solution.java",
+  "editor_type": "monaco",
+  "editor_confidence": "api",
+  "success_evidence": "fresh post-click success dialog text"
+}
