@@ -5,12 +5,12 @@ My accepted coding challenge solutions.
 <!-- 30ACC-LEETHUB:START -->
 ## 30 Days of Code — Progress Dashboard
 
-Latest accepted submission: **Sort an Array** (Day 1) · 2026-11-08T07:45:37.744Z
+Latest accepted submission: **Squares of a Sorted Array** (Day 2) · 2026-11-08T07:46:16.696Z
 
 | Day | Details | Challenge | Difficulty | Language | Status |
 |---|---|---|---|---|---|
 | 01 | [Day 01](./Day-01/README.md) | Sort an Array | easy | java | ACCEPTED |
-| 02 | — | — | — | — | — |
+| 02 | [Day 02](./Day-02/README.md) | Squares of a Sorted Array | easy | java | ACCEPTED |
 | 03 | — | — | — | — | — |
 | 04 | — | — | — | — | — |
 | 05 | — | — | — | — | — |
