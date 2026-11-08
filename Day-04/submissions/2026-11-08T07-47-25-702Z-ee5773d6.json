@@ -1,0 +1,21 @@
+{
+  "submission_id": "ee5773d6-f0b2-46e0-a75c-6a0c2637c4e9",
+  "day": 4,
+  "challenge_id": null,
+  "challenge_title": "Merge Two Sorted Lists",
+  "difficulty": "easy",
+  "language": "java",
+  "status": "ACCEPTED",
+  "passed_test_cases": 1,
+  "total_test_cases": 1,
+  "pass_percentage": 100,
+  "runtime": null,
+  "memory": null,
+  "elapsed_time": null,
+  "submitted_at": "2026-11-08T07:47:25.702Z",
+  "source_url": "https://30accd.xyz/challenge/4?arena=DSA",
+  "source_file": "solution.java",
+  "editor_type": "monaco",
+  "editor_confidence": "api",
+  "success_evidence": "fresh post-click success dialog text"
+}
