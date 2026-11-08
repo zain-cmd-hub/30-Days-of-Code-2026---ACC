@@ -1,1 +1,3 @@
-# 30-Days-of-Code-2026---ACC
+# 30 Days of Code - ACC
+
+My accepted coding challenge solutions.
