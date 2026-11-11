@@ -5,7 +5,7 @@ My accepted coding challenge solutions.
 <!-- 30ACC-LEETHUB:START -->
 ## 30 Days of Code — Progress Dashboard
 
-Latest accepted submission: **Search Insert Position** (Day 8) · 2026-11-11T18:43:22.657Z
+Latest accepted submission: **Integer Square Root** (Day 9) · 2026-11-11T18:46:21.790Z
 
 | Day | Details | Challenge | Difficulty | Language | Status |
 |---|---|---|---|---|---|
