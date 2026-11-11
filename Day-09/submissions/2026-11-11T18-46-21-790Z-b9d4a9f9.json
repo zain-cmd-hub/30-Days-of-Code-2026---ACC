@@ -1,0 +1,21 @@
+{
+  "submission_id": "b9d4a9f9-8e0e-4117-a14c-1c61d86eb6f1",
+  "day": 9,
+  "challenge_id": null,
+  "challenge_title": "Integer Square Root",
+  "difficulty": "easy",
+  "language": "java",
+  "status": "ACCEPTED",
+  "passed_test_cases": 1,
+  "total_test_cases": 1,
+  "pass_percentage": 100,
+  "runtime": null,
+  "memory": null,
+  "elapsed_time": null,
+  "submitted_at": "2026-11-11T18:46:21.790Z",
+  "source_url": "https://30accd.xyz/challenge/9?arena=DSA",
+  "source_file": "solution.java",
+  "editor_type": "monaco",
+  "editor_confidence": "api",
+  "success_evidence": "fresh post-click success dialog text"
+}
