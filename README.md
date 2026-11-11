@@ -5,7 +5,7 @@ My accepted coding challenge solutions.
 <!-- 30ACC-LEETHUB:START -->
 ## 30 Days of Code — Progress Dashboard
 
-Latest accepted submission: **Integer Square Root** (Day 9) · 2026-11-11T18:37:08.705Z
+Latest accepted submission: **Search Insert Position** (Day 8) · 2026-11-11T18:43:22.657Z
 
 | Day | Details | Challenge | Difficulty | Language | Status |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@ Latest accepted submission: **Integer Square Root** (Day 9) · 2026-11-11T18:37:
 | 05 | [Day 05](./Day-05/README.md) | Valid Palindrome | easy | java | ACCEPTED |
 | 06 | [Day 06](./Day-06/README.md) | Contains Duplicate II | easy | java | ACCEPTED |
 | 07 | [Day 07](./Day-07/README.md) | Range Sum Query | easy | java | ACCEPTED |
-| 08 | — | — | — | — | — |
+| 08 | [Day 08](./Day-08/README.md) | Search Insert Position | easy | java | ACCEPTED |
 | 09 | [Day 09](./Day-09/README.md) | Integer Square Root | easy | java | ACCEPTED |
 | 10 | — | — | — | — | — |
 | 11 | — | — | — | — | — |
