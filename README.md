@@ -5,7 +5,7 @@ My accepted coding challenge solutions.
 <!-- 30ACC-LEETHUB:START -->
 ## 30 Days of Code — Progress Dashboard
 
-Latest accepted submission: **Range Sum Query** (Day 7) · 2026-11-09T05:51:04.165Z
+Latest accepted submission: **Integer Square Root** (Day 9) · 2026-11-11T18:37:08.705Z
 
 | Day | Details | Challenge | Difficulty | Language | Status |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@ Latest accepted submission: **Range Sum Query** (Day 7) · 2026-11-09T05:51:04.1
 | 06 | [Day 06](./Day-06/README.md) | Contains Duplicate II | easy | java | ACCEPTED |
 | 07 | [Day 07](./Day-07/README.md) | Range Sum Query | easy | java | ACCEPTED |
 | 08 | — | — | — | — | — |
-| 09 | — | — | — | — | — |
+| 09 | [Day 09](./Day-09/README.md) | Integer Square Root | easy | java | ACCEPTED |
 | 10 | — | — | — | — | — |
 | 11 | — | — | — | — | — |
 | 12 | — | — | — | — | — |
