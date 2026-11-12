@@ -1,0 +1,21 @@
+{
+  "submission_id": "8b81ca2c-a9cd-46a6-8378-ab2f9447433f",
+  "day": 10,
+  "challenge_id": null,
+  "challenge_title": "Remove All Adjacent Duplicates In String",
+  "difficulty": "easy",
+  "language": "java",
+  "status": "ACCEPTED",
+  "passed_test_cases": 1,
+  "total_test_cases": 1,
+  "pass_percentage": 100,
+  "runtime": null,
+  "memory": null,
+  "elapsed_time": null,
+  "submitted_at": "2026-11-12T16:20:20.960Z",
+  "source_url": "https://30accd.xyz/challenge/10?arena=DSA",
+  "source_file": "solution.java",
+  "editor_type": "monaco",
+  "editor_confidence": "api",
+  "success_evidence": "fresh post-click success dialog text"
+}
