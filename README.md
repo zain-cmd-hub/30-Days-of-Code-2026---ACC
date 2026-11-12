@@ -5,7 +5,7 @@ My accepted coding challenge solutions.
 <!-- 30ACC-LEETHUB:START -->
 ## 30 Days of Code — Progress Dashboard
 
-Latest accepted submission: **Integer Square Root** (Day 9) · 2026-11-11T18:46:21.790Z
+Latest accepted submission: **Remove All Adjacent Duplicates In String** (Day 10) · 2026-11-12T16:20:20.960Z
 
 | Day | Details | Challenge | Difficulty | Language | Status |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@ Latest accepted submission: **Integer Square Root** (Day 9) · 2026-11-11T18:46:
 | 07 | [Day 07](./Day-07/README.md) | Range Sum Query | easy | java | ACCEPTED |
 | 08 | [Day 08](./Day-08/README.md) | Search Insert Position | easy | java | ACCEPTED |
 | 09 | [Day 09](./Day-09/README.md) | Integer Square Root | easy | java | ACCEPTED |
-| 10 | — | — | — | — | — |
+| 10 | [Day 10](./Day-10/README.md) | Remove All Adjacent Duplicates In String | easy | java | ACCEPTED |
 | 11 | — | — | — | — | — |
 | 12 | — | — | — | — | — |
 | 13 | — | — | — | — | — |
